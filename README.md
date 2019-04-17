@@ -1,2 +1,2 @@
-# jconforti.github.io
-personal page
+# Basic-Portfolio
+Self portfolio project
